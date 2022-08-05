@@ -20,6 +20,6 @@
 ## Steps to launch the game:
 
 1. Choose a folder in your local machine where you want this repository to be copied.
-2. `git clone https://github.com/NadinePlatonova/flappy-bird-game.git` - clone this repository to your local machine.
+2. `git clone https://github.com/NadinePlatonova/halloween-game.git` - clone this repository to your local machine.
 3. Open the project via your IDE (for example, Visual Studio Code);
 4. Launch it with Live Server or similar plagins that launch your html layout in the browser.

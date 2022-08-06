@@ -13,8 +13,6 @@
 - the aim of the game is to help the angel fly through the gap between the arms;
 - for each flight through the gap you get points (they are shown below).
 
-**My record is 31 points. Try to beat it!**
-
 > **Recommendation:** the game works correctly if you launch it on your local machine (please see below the steps).
 
 ## Steps to launch the game:
